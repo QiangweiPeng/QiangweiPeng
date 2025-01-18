@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @QiangweiPeng
-- 👀 I’m interested in bioinformatics, statistics, mathematics and programming.
-- 🌱 I’m currently learning Python and single cell transcriptome data analysis.
+- 👋 👀 🌱Hi, I’m @QiangweiPeng
 
 <!---
 QiangweiPeng/QiangweiPeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
